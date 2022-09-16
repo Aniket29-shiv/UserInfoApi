@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-8_j4qnlq_q_*==9tnbcieg5v0o+k%oyf7uabs&0ws+0^p@=#@c
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['userinfoapi.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['userinfoapi.herokuapp.com','127.0.0.1','pixisanalyticsapi.herokuapp.com']
 
 
 
