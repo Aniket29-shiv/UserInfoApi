@@ -1,1 +1,1 @@
-web: gunicorn apisearchin.wsgi --log-file -
+web: gunicorn UserInfoApi.wsgi --log-file -
